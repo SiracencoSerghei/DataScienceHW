@@ -30,3 +30,5 @@ __pycache__/
 # Ignore any other generated files or directories
 */build/
 */dist/
+.idea/
+.idea
