@@ -38,7 +38,8 @@ y_pred = np.dot(X, beta) + epsilon
 ### Основи:
 Логістична регресія використовує логістичну функцію (сигмоїду) для перетворення лінійної комбінації ознак в ймовірність:
 
-$ \huge p(y=1 | X) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_n x_n)}}$
+$$ \huge p(y=1 | X) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x_1 + \beta_2 x_2 + \dots + \beta_n x_n)}} $$
+
 
 ``` 
 p(y=1 | X) = 1 / (1 + e^-(β₀ + β₁x₁ + β₂x₂ + ... + βₙxₙ))
@@ -60,7 +61,8 @@ $$
 
 де 
 
-$$z = \beta_0 + \beta_1 x_1 + \dots + \beta_n x_n $$
+$$ \huge z = \beta_0 + \beta_1 x_1 + \dots + \beta_n x_n $$
+
 
 
 
