@@ -65,6 +65,8 @@
 
 📖 [xgboost.readthedocs.io](https://xgboost.readthedocs.io/en/stable/)
 
+📖 [lightgbm.readthedocs.io](https://lightgbm.readthedocs.io/en/stable/)
+
 📖 [Examples](https://scikit-learn.org/stable/auto_examples/ensemble/index.html)
 
 📖 [калькулятор](https://www.wolframalpha.com/)
