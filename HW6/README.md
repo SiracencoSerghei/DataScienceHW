@@ -11,8 +11,8 @@
 
 📥 **Дії:**  
 1. Завантажити та дослідити дані.  
-2. Використати `KMeans` для кластеризації.  
-3. Побудувати графік "ліктя" (`Elbow Method`).  
+2. Використати KMeans для кластеризації.  
+3. Побудувати графік "ліктя" (Elbow Method).  
 
 ---
 
@@ -28,10 +28,55 @@
 3. Побудувати **PCA-візуалізацію** для MNIST.  
 
 ---
+---
 
 ## 🎯 Висновки  
 ✅ Порівняти результати кластеризації.  
 ✅ Оцінити якість кластеризації за допомогою **візуалізації**.  
 ✅ Обговорити, як можна покращити результати.  
 
-🚀 **Готові? Почнемо!**
+---
+
+### 📚 Ресурси для K-means та PCA:
+
+- **Документація з K-means**:
+  - [Scikit-learn KMeans](https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans.html)
+  - [Документація з K-means кластеризації на Python](https://towardsdatascience.com/unsupervised-learning-k-means-clustering-27416b95af27/)
+
+- **Ліктьовий метод**:
+  - [Elbow Method](https://en.wikipedia.org/wiki/Elbow_method_(clustering))
+
+- **PCA (Principal Component Analysis)**:
+  - [PCA з Scikit-learn](https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html)
+  - [Візуалізація PCA на Python](https://plotly.com/python/pca-visualization/)
+
+---
+
+### 📥 Завантаження та обробка даних:
+
+- **Google Drive для завантаження датасету**:  
+  [2D та MNIST дані](https://drive.google.com/file/d/1Zvz20Iqeia1eEtFbGa3NcIrt_SNSimP6/view)
+
+- **Завантаження та попередній аналіз даних**:
+  - [Вступ до Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/intro_tutorials/index.html)
+  - [Попередній аналіз даних з Pandas](https://realpython.com/pandas-python-explore-dataset/)
+
+---
+
+### 📊 Візуалізація:
+
+1. **Matplotlib для побудови графіків**:
+   - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html)
+   - [Як створювати scatter plot](https://ecampusontario.pressbooks.pub/introstats/chapter/12-3-scatter-diagrams/)
+
+2. **Seaborn для візуалізації кластерів**:
+   - [Seaborn Documentation](https://seaborn.pydata.org/)
+   - [Scatter Plot в Seaborn](https://seaborn.pydata.org/generated/seaborn.scatterplot.html)
+
+---
+
+### 🎓 Додаткові ресурси:
+
+- **YouTube-уроки по K-means та PCA**:
+  - [K-means кластеризація — Python та Scikit-learn](https://youtu.be/ZzJ13-6kCAY?si=_5hlPLFI1S_dByfi)
+  - [PCA в Python — Покрокова інструкція](https://www.youtube.com/watch?v=FgakZw6K1QQ)
