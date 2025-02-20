@@ -85,6 +85,8 @@
   - [The Determinant](https://en.wikipedia.org/wiki/Determinant)
   - [Multivariate Gaussian examples](https://maximustann.github.io/mach/2015/08/17/multivariate-gaussian/)
   - [Anomaly Detection](https://hackerwins.github.io/2019-07-24/cs229a-week9)
+  - [sklearn.covariance.EllipticEnvelope](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html#sklearn.covariance.EllipticEnvelope)
+  - []()
 
 - **YouTube-уроки по K-means та PCA**:
   - [K-means кластеризація — Python та Scikit-learn](https://youtu.be/ZzJ13-6kCAY?si=_5hlPLFI1S_dByfi)
