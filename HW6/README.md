@@ -86,7 +86,9 @@
   - [Multivariate Gaussian examples](https://maximustann.github.io/mach/2015/08/17/multivariate-gaussian/)
   - [Anomaly Detection](https://hackerwins.github.io/2019-07-24/cs229a-week9)
   - [sklearn.covariance.EllipticEnvelope](https://scikit-learn.org/stable/modules/generated/sklearn.covariance.EllipticEnvelope.html#sklearn.covariance.EllipticEnvelope)
-  - []()
+  - [sklearn.neighbors.LocalOutlierFactor](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.LocalOutlierFactor.html#sklearn.neighbors.LocalOutlierFactor)
+  - [sklearn.ensemble.IsolationForest](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html#sklearn.ensemble.IsolationForest)
+  - [GIGO](https://www.linkedin.com/pulse/gigo-garbage-out-riro-rubbish-david-lush/)
 
 - **YouTube-уроки по K-means та PCA**:
   - [K-means кластеризація — Python та Scikit-learn](https://youtu.be/ZzJ13-6kCAY?si=_5hlPLFI1S_dByfi)
