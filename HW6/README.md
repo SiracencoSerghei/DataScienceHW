@@ -76,14 +76,17 @@
 ---
 
 ### 🎓 Додаткові ресурси:
-- **Власні вектори та власні значення**:
-
   - [Власні вектори та власні значення](https://uk.wikipedia.org/wiki/%D0%92%D0%BB%D0%B0%D1%81%D0%BD%D1%96_%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%B8_%D1%82%D0%B0_%D0%B2%D0%BB%D0%B0%D1%81%D0%BD%D1%96_%D0%B7%D0%BD%D0%B0%D1%87%D0%B5%D0%BD%D0%BD%D1%8F)
   - [Eigenvalues and eigenvectors](https://en.wikipedia.org/wiki/Eigenvalues_and_eigenvectors)
   - [SVD - Singular value decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
   - [T-SNE - T-distributed stochastic neighbor embedding](https://en.wikipedia.org/wiki/T-distributed_stochastic_neighbor_embedding)
   - [Anomaly_detection](https://en.wikipedia.org/wiki/Anomaly_detection)
+  - [Probability density function](https://d138zd1ktt9iqe.cloudfront.net/media/seo_landing_files/probability-density-function-2-1618469958.png)
+  - [The Determinant](https://en.wikipedia.org/wiki/Determinant)
+  - [Multivariate Gaussian examples](https://maximustann.github.io/mach/2015/08/17/multivariate-gaussian/)
+  - [Anomaly Detection](https://hackerwins.github.io/2019-07-24/cs229a-week9)
 
 - **YouTube-уроки по K-means та PCA**:
   - [K-means кластеризація — Python та Scikit-learn](https://youtu.be/ZzJ13-6kCAY?si=_5hlPLFI1S_dByfi)
   - [PCA в Python — Покрокова інструкція](https://www.youtube.com/watch?v=FgakZw6K1QQ)
+  - [The Determinant](https://youtu.be/Ip3X9LOh2dk?si=x09Dxpv2Thi8fWXc)
