@@ -30,5 +30,10 @@
 🔗 **Корисні ресурси**:  
 - [Формули та завантаження датасету](https://grouplens.org/datasets/movielens/)  
 - [Назви фільмів та рейтинги](https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
+- [Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
+- [Градієнтний спуск](https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%96%D1%94%D0%BD%D1%82%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D1%83%D1%81%D0%BA)
+- [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
+- [MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-%5bNetflix%5d.pdf)
+- [Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/discussion/376977)
 
 📌 **Бажаємо успіхів у роботі!**
