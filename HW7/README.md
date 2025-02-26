@@ -35,5 +35,6 @@
 - [Gradient descent](https://en.wikipedia.org/wiki/Gradient_descent)
 - [MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-%5bNetflix%5d.pdf)
 - [Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/discussion/376977)
+- [Hybrid Recommendation System using Python](https://thecleverprogrammer.com/2023/06/05/hybrid-recommendation-system-using-python/)
 
 📌 **Бажаємо успіхів у роботі!**
