@@ -36,5 +36,7 @@
 - [MATRIX FACTORIZATION TECHNIQUES FOR RECOMMENDER SYSTEMS](https://datajobs.com/data-science-repo/Recommender-Systems-%5bNetflix%5d.pdf)
 - [Multi-Objective Recommender System](https://www.kaggle.com/competitions/otto-recommender-system/discussion/376977)
 - [Hybrid Recommendation System using Python](https://thecleverprogrammer.com/2023/06/05/hybrid-recommendation-system-using-python/)
+- [Hybrid Recommender Systems: Beginner's Guide](https://marketsy.ai/blog/hybrid-recommender-systems-beginners-guide)
+- [Відео](https://youtu.be/e-I_G9QhHTA?si=C-_0_YYMK_O5piya)
 
 📌 **Бажаємо успіхів у роботі!**
