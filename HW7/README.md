@@ -38,5 +38,6 @@
 - [Hybrid Recommendation System using Python](https://thecleverprogrammer.com/2023/06/05/hybrid-recommendation-system-using-python/)
 - [Hybrid Recommender Systems: Beginner's Guide](https://marketsy.ai/blog/hybrid-recommender-systems-beginners-guide)
 - [Відео](https://youtu.be/e-I_G9QhHTA?si=C-_0_YYMK_O5piya)
+- [LightFM](https://making.lyst.com/lightfm/docs/home.html)
 
 📌 **Бажаємо успіхів у роботі!**
