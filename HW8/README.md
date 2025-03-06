@@ -33,6 +33,9 @@
 4. **Загальні ресурси для нейронних мереж:**
    - [Deep Learning Specialization на Coursera](https://www.coursera.org/specializations/deep-learning)
    - [Прості приклади для нейронних мереж на TensorFlow](https://www.tensorflow.org/tutorials/keras/classification)
+   - [ PyTorch](https://pytorch.org/get-started/locally/)
+   - [Візуалізатор навчання нейронних мереж.](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.11967&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+   - [Sigmoid function](https://machinelearningmastery.com/a-gentle-introduction-to-sigmoid-function/)
 
 5. **Інструменти для візуалізації:**
    - [Matplotlib Documentation](https://matplotlib.org/stable/contents.html) – для побудови графіків навчання.
