@@ -144,6 +144,11 @@ def accuracy(y_pred, y_true):
    - Офіційні туторіали для створення нейронних мереж:
      - [TensorFlow Tutorials](https://www.tensorflow.org/tutorials)
      - [Keras Documentation](https://keras.io/)
+     - [Автоматичне диференціювання в tensorflow](https://www.tensorflow.org/guide/intro_to_graphs)
+     - [Реалізація моделей](https://www.tensorflow.org/guide/intro_to_modules)
+     - [Навчання моделей](https://www.tensorflow.org/guide/basic_training_loops)
+     - [Обчислювальні графи](https://www.tensorflow.org/guide/intro_to_graphs)
+     - [Корисні приклади](https://github.com/tensorflow/docs)
    
 2. **Scikit-learn для метрик якості:**
    - Для отримання метрик якості моделі, зокрема **classification_report**:
