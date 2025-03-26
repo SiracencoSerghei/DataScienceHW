@@ -64,4 +64,6 @@
 - [Fashion MNIST Dataset](https://github.com/zalandoresearch/fashion-mnist) – інформація про датасет.  
 - [VGG16 у Keras](https://keras.io/api/applications/vgg/#vgg16-function) – офіційна реалізація VGG16 у Keras.  
 - [Посібник TensorFlow для роботи з CNN](https://www.tensorflow.org/tutorials/images/cnn) – офіційний туторіал від TensorFlow.  
-- [Fine-Tuning Pretrained Models](https://keras.io/guides/transfer_learning/) – посібник з донавчання переднавчених мереж.  
+- [Fine-Tuning Pretrained Models](https://keras.io/guides/transfer_learning/) – посібник з донавчання переднавчених мереж. 
+- [Дуже хороший блог про згорткові мережі](https://poloclub.github.io/cnn-explainer/)
+- [Красива візуалізація навчання згорткової мережі](https://youtu.be/RNnKtNrsrmg?si=VI3uMmK6X_U6k7fA) 
