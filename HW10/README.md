@@ -67,3 +67,5 @@
 - [Fine-Tuning Pretrained Models](https://keras.io/guides/transfer_learning/) – посібник з донавчання переднавчених мереж. 
 - [Дуже хороший блог про згорткові мережі](https://poloclub.github.io/cnn-explainer/)
 - [Красива візуалізація навчання згорткової мережі](https://youtu.be/RNnKtNrsrmg?si=VI3uMmK6X_U6k7fA) 
+- [Колекція переднавчених моделей з їх докладним описом.](https://github.com/onnx/models)
+- [Ще одна корисна колекція переднавчених моделей.](https://modelzoo.co/)
