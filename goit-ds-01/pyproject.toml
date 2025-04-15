@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "goit-ds-01"
+version = "0.1.0"
+description = "Personal helper"
+authors = ["Siracenco Serghei <siracencoserghei@email.com>"]
+license = "MIT"
+readme = "README.md"
+packages = []
+
+[tool.poetry.dependencies]
+python = "^3.11"
+markdown-it-py = {version = "3.0.0", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+mdurl = {version = "0.1.2", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+prompt-toolkit = {version = "3.0.43", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+pygments = {version = "2.17.2", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+rich = {version = "13.7.0", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+wcwidth = {version = "0.2.13", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
