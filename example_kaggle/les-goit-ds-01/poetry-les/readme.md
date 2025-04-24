@@ -44,6 +44,7 @@ poetry update
 ```bash
 poetry run python script.py
 ```
+< poetry run python3 app.py >
 
 ## Activate the Virtual Environment
 ```bash
