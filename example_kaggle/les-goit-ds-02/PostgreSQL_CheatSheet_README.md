@@ -34,27 +34,27 @@ psql -U your_username -d your_database
 ```
 де your_username — це ім'я користувача PostgreSQL, а your_database — ім'я бази даних, до якої хочеш підключитися.
 
-
--- List Databases
+```
+# List Databases
 \l
 
--- Create a Table
+# Create a Table
 CREATE TABLE table_name (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
     age INT
 );
 
--- Insert Data
+# Insert Data
 INSERT INTO table_name (name, age) VALUES ('Alice', 30);
 
--- Query Data
+# Query Data
 SELECT * FROM table_name;
 
--- Update Data
+# Update Data
 UPDATE table_name SET age = 31 WHERE name = 'Alice';
 
--- Delete Data
+# Delete Data
 DELETE FROM table_name WHERE name = 'Alice';
 ```
 
