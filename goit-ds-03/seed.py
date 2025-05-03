@@ -1,6 +1,7 @@
 import os
 from dotenv import load_dotenv
 from pymongo import MongoClient
+from pymongo.server_api import ServerApi
 from faker import Faker
 import random
 
@@ -10,7 +11,7 @@ load_dotenv()
 # Підключення до MongoDB
 db_uri = os.getenv("MONGODB_URI")  # Вказуємо URI до вашої MongoDB
 db_name = os.getenv("DB_NAME")  # Вказуємо ім'я бази даних
-client = MongoClient(db_uri)
+client = MongoClient(db_uri, server_api=ServerApi("1"))
 db = client[db_name]
 cats_collection = db.cats  # Колекція "cats" в базі даних
 

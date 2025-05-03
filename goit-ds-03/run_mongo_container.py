@@ -8,7 +8,11 @@ def run_mongo_container():
 
     # Перевірка наявності контейнера
     try:
+
         container = client.containers.get("mongo")
+        if container.status != "running":
+            print("Контейнер існує, але не працює. Перезапускаємо...")
+            container.start()
         print("Контейнер MongoDB вже працює.")
     except docker.errors.NotFound:
         # Запуск контейнера MongoDB
@@ -38,5 +42,20 @@ def run_mongo_container():
     return container
 
 
+def stop_mongo_container():
+    client = docker.from_env()
+    try:
+        container = client.containers.get("mongo")
+        if container.status == "running":
+            print("Зупиняємо контейнер MongoDB...")
+            container.stop()
+            print("Контейнер зупинено.")
+        else:
+            print("Контейнер вже зупинений.")
+    except docker.errors.NotFound:
+        print("Контейнер 'mongo' не знайдено.")
+
+
 if __name__ == "__main__":
     container = run_mongo_container()
+    # stop_mongo_container()
