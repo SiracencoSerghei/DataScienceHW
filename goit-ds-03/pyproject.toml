@@ -12,6 +12,9 @@ mongoengine = "^0.29.1"
 python-dotenv = "^1.1.0"
 docker = "^7.1.0"
 faker = "^37.1.0"
+lxml = "^5.4.0"
+requests = "^2.32.3"
+selenium = "^4.32.0"
 
 
 [build-system]
