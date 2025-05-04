@@ -4,6 +4,7 @@ from pymongo import MongoClient
 from pymongo.server_api import ServerApi
 from faker import Faker
 import random
+from main import add_new_cat
 
 # Завантажуємо змінні середовища
 load_dotenv()
@@ -46,6 +47,7 @@ if __name__ == "__main__":
         db.create_collection("cats")
 
     # Вставка фейкових котів
+    add_new_cat("Tommy", 3, ["playful", "friendly", "smart", "cute"])
     insert_fake_cats(10)
     # Перевірка
     print("Колекції в базі:", db.list_collection_names())
