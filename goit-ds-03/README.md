@@ -40,7 +40,8 @@ python3 main.py
 ### Запуск
 
 ```
-scrape_quotes.py
+python3 scrape_quotes.py
+python3 insert_to_mongoDB.py
 ```
 
 ## 🔗 Корисні матеріали
@@ -54,6 +55,7 @@ scrape_quotes.py
 
 - [BeautifulSoup Docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 - [Requests Documentation](https://requests.readthedocs.io/en/latest/)
+- [Selenium](https://www.selenium.dev/documentation/)
 - [quotes.toscrape.com](http://quotes.toscrape.com)
 
 ## GitHub
