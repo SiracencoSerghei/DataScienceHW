@@ -9,12 +9,12 @@ packages = []
 
 [tool.poetry.dependencies]
 python = "^3.11"
-markdown-it-py = {version = "3.0.0", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
-mdurl = {version = "0.1.2", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
-prompt-toolkit = {version = "3.0.43", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
-pygments = {version = "2.17.2", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
-rich = {version = "13.7.0", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
-wcwidth = {version = "0.2.13", markers = "python_version >= \"3.11\" and python_version < \"4.0\""}
+markdown-it-py = "3.0.0"
+mdurl = "0.1.2"
+prompt-toolkit = "3.0.43"
+pygments = "2.17.2"
+rich = "13.7.0"
+wcwidth = "0.2.13"
 
 [build-system]
 requires = ["poetry-core"]

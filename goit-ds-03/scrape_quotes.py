@@ -16,7 +16,6 @@ authors_data = []
 
 
 def scrape_author_info(link):
-    driver.get(link)
     sleep(1)
     name = driver.find_element(By.TAG_NAME, "h3").text
     birth_date = driver.find_element(By.CLASS_NAME, "author-born-date").text
