@@ -11,9 +11,6 @@ RUN apt-get update && apt-get install -y build-essential && \
     apt-get autoremove -y && \
     rm -rf /var/lib/apt/lists/*
 
-# Install Poetry
-RUN pip install poetry
-
 # Copy poetry files first to leverage caching
 COPY pyproject.toml poetry.lock ./
 
