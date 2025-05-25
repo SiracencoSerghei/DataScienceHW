@@ -1,0 +1,35 @@
+{
+    "data": [
+        [
+            "Michael",
+            "Canada"
+        ],
+        [
+            "John",
+            "USA"
+        ],
+        [
+            "Anna",
+            "Germany"
+        ],
+        [
+            "Maria",
+            "Spain"
+        ],
+        [
+            "James",
+            "UK"
+        ]
+    ],
+    "columns": [
+        "name",
+        "country"
+    ],
+    "index": [
+        1,
+        2,
+        3,
+        4,
+        5
+    ]
+}
