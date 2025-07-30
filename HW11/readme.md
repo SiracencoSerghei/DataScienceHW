@@ -20,4 +20,5 @@
 - [Keras RNN Layers Documentation](https://keras.io/api/layers/recurrent_layers/)
 - [TensorFlow IMDb Example](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub)
 - [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [rnn-lstm-gru](https://www.analyticsvidhya.com/blog/2022/01/tutorial-on-rnn-lstm-gru-with-implementation/)
 
