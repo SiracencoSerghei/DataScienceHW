@@ -1,0 +1,17 @@
+streamlit
+tensorflow
+gdown
+pillow
+numpy
+requests
+matplotlib
+scikit-learn
+scipy
+pandas
+seaborn
+scikit-image
+opencv-python
+tqdm
+plotly
+pydub
+moviepy

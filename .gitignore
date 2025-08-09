@@ -11,6 +11,7 @@
 venv/
 env/
 *.env
+*.venv/
 
 # Ignore Jupyter Notebook kernel metadata
 # *.json
