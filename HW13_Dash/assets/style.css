@@ -1,0 +1,86 @@
+body {
+    background-color: #F5F7FA;
+    /* Світлий фон */
+    font-family: 'Segoe UI', sans-serif;
+    color: #2E3A59;
+    /* Основний текст */
+    margin: 50;
+    padding: 40;
+}
+
+h1 {
+    color: #1E88E5;
+    /* Основний акцент */
+    text-align: center;
+    padding: 20px 0;
+}
+
+h3 {
+    color: #3949AB;
+    /* Другорядний акцент */
+}
+
+label {
+    font-weight: bold;
+    margin-top: 10px;
+    display: block;
+}
+
+button,
+.dash-graph {
+    border-radius: 10px;
+}
+
+button {
+    background-color: #1E88E5;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1565C0;
+}
+
+
+#predict_btn {
+    background-color: #43A047;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    border-radius: 6px;
+}
+#predict_btn:hover {
+    filter: blur(2px);
+}
+
+#predicted_class {
+    background-color: #E3F2FD;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.dash-upload {
+    background-color: white;
+    border: 2px dashed #90CAF9;
+    border-radius: 8px;
+    padding: 10px;
+}
+
+.dash-upload:hover {
+    border-color: #1E88E5;
+}
+
+#test_image {
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
