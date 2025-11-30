@@ -135,7 +135,7 @@ rich==14.0.0
 rpds-py==0.20.0
 scikit-learn==1.5.2
 scipy==1.14.1
-Scrapy==2.11.1
+Scrapy==2.13.4
 seaborn==0.13.2
 selenium==4.22.0
 Send2Trash==1.8.3
